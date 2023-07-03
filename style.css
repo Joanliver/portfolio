@@ -90,6 +90,10 @@ body {
     background-color: var(--cor-hover);
 }
 
+.cor {
+    color: var(--cor-terciaria);
+}
+
 .marca_texto {
     color: var(--cor-terciaria);
 }
@@ -110,7 +114,7 @@ body {
 }
 
 .imagem {
-    width: 50%; /*A medida % segue sempre a tag pai e necessario usar-la quando vc quer responsividade no site*/
+    width: 80%; /*A medida % segue sempre a tag pai e necessario usar-la quando vc quer responsividade no site*/
 }
 
 @media (max-width: 1200px) {
