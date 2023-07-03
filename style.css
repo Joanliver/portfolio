@@ -78,7 +78,7 @@ body {
     width: 50%;
     text-align: center;
     border-radius: 8px;
-    font-size: 1.5rem; /*O rem So serve para texto ele vai funcionar em todas as telas independente quais sejam!* (1 rem = a 16 px)*/
+    font-size: 1.2rem; /*O rem So serve para texto ele vai funcionar em todas as telas independente quais sejam!* (1 rem = a 16 px)*/
     font-weight: 600;
     padding: 21.5px 0;
     text-decoration: none;
